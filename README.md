@@ -4,7 +4,7 @@
 
 FlowCSV takes messy CSV and JSON files, runs them through a 7-step automated pipeline, and outputs clean organized files with a full audit report.
 
-## 🚀 Live Demo
+## Live Demo
 
 **[flowcsv.vercel.app](https://flowcsv.vercel.app)**
 
