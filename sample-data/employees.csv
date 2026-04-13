@@ -1,0 +1,24 @@
+employee_id,first_name,last_name,email,department,job_level,status,location,salary,performance_rating
+EMP001,Alice,Johnson,alice.johnson@company.com,Engineering,Senior,active,New York,95000,Exceeds Expectations
+EMP002,Bob,Smith,bob.smith@company.com,Marketing,Mid,active,San Francisco,72000,Meets Expectations
+EMP003,Carol,White,carol.white@company.com,Engineering,Lead,inactive,Austin,110000,Outstanding
+EMP004,David,Brown,david.brown@company.com,HR,Junior,active,Chicago,58000,Meets Expectations
+EMP005,Eva,Martinez,eva.martinez@company.com,Engineering,Senior,active,Seattle,102000,Exceeds Expectations
+EMP006,Frank,Lee,frank.lee@company.com,Marketing,Senior,active,Denver,78000,Meets Expectations
+EMP007,Grace,Kim,grace.kim@company.com,HR,Mid,active,Atlanta,67000,Exceeds Expectations
+EMP008,Henry,Wilson,henry.wilson@company.com,Engineering,Mid,active,Boston,91000,Meets Expectations
+EMP009,Isabel,Chen,isabel.chen@company.com,Finance,Senior,active,New York,88000,Outstanding
+EMP010,James,Taylor,james.taylor@company.com,Finance,Lead,inactive,Miami,105000,Meets Expectations
+EMP001,Alice,Johnson,alice.johnson@company.com,Engineering,Senior,active,New York,95000,Exceeds Expectations
+EMP002,Bob,Smith,bob.smith@company.com,Marketing,Mid,active,San Francisco,72000,Meets Expectations
+EMP011,Karen,Davis,karen.davis@company.com,Marketing,Mid,active,Dallas,75000,Meets Expectations
+EMP012,Liam,Moore,liam.moore@company.com,Engineering,Senior,active,Seattle,97000,Exceeds Expectations
+EMP013,Mia,Anderson,mia.anderson@company.com,HR,Junior,active,Denver,62000,Meets Expectations
+EMP014,Noah,Thomas,noah.thomas@company.com,Finance,Mid,active,Boston,85000,Exceeds Expectations
+EMP015,Olivia,Jackson,olivia.jackson@company.com,Marketing,Junior,active,Chicago,68000,Meets Expectations
+EMP003,Carol,White,carol.white@company.com,Engineering,Lead,inactive,Austin,110000,Outstanding
+EMP016,Paul,White,paul.white@company.com,Engineering,Principal,active,San Francisco,130000,Outstanding
+EMP017,Quinn,Harris,quinn.harris@company.com,Sales,Mid,active,Atlanta,82000,Meets Expectations
+EMP018,Rachel,Martin,rachel.martin@company.com,Sales,Senior,active,Miami,90000,Exceeds Expectations
+EMP019,Sam,Garcia,sam.garcia@company.com,Operations,Junior,active,Dallas,60000,Meets Expectations
+EMP020,Tina,Rodriguez,tina.rodriguez@company.com,Operations,Mid,active,New York,74000,Meets Expectations
